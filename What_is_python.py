@@ -24,3 +24,15 @@ Manipulating numbers
 
 """
 
+"""
+Storage and Access
+-Data structures for organizing and storing data
+-Lists,Tuples,Sets,Dictionaries
+-lists: ordered,mutable,allows duplicates(list = [1,2,3,4,5])
+      methods: append(),insert(),remove(),pop(),sort(),reverse()
+-Tuples: ordered,immutable,allows duplicates
+-Sets: unordered, mutable, no duplicates
+-Dictionaries: unordered, mutable, key-value pairs(listpair = {'one':1,'two':2,'three':3})
+       methods: keys(),values(),items(),get(),update(),pop()
+"""
+

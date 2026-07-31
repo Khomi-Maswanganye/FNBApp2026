@@ -36,3 +36,12 @@ Storage and Access
        methods: keys(),values(),items(),get(),update(),pop()
 """
 
+"""
+Condtional Logic & Decision making
+-if,elif,else statements
+-comparioson operators (==,!=,<,>,<=,>=)
+-combined conditions :and ,or,not
+-in and truthness
+
+"""
+

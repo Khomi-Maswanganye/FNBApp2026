@@ -45,3 +45,13 @@ Condtional Logic & Decision making
 
 """
 
+"""
+Loops and iterations
+
+-looping over lists,dictionaries,string,range()
+-write loops to repeat code
+-use rang()
+-use break to exit a loop
+- use continue to skip a condition without stopping the loop
+"""
+
